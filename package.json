@@ -1,0 +1,17 @@
+{
+  "name": "Hugo Snackbar Module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razonyang/hugo-mod-snackbar.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razonyang/hugo-mod-snackbar/issues"
+  },
+  "homepage": "https://github.com/razonyang/hugo-mod-snackbar",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}

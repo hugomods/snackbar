@@ -5,4 +5,4 @@
 [![License](https://img.shields.io/github/license/hugomods/snackbar?style=flat-square)](https://github.com/hugomods/snackbar/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/tag/hugomods/snackbar?label=version&style=flat-square)](https://github.com/hugomods/snackbar/tags)
 
-A super lightweight (less then 50 lines code) snackbar module for Hugo, used to show short messages to clients, such as results of actions, read more on the [documentations](https://hugomods.com/en/docs/snackbar).
+A super lightweight (less then 50 lines code) snackbar module for Hugo, used to show short messages to clients, such as results of actions, read more on the [documentation](https://hugomods.com/en/docs/snackbar).
